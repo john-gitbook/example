@@ -1,9 +1,3 @@
 # Page 2
 
-{% openapi-operation spec="gitbook" path="/" method="get" %}
-[Broken link](broken-reference)
-{% endopenapi-operation %}
-
-{% openapi-operation spec="gitbook" path="/user" method="get" %}
-[Broken link](broken-reference)
-{% endopenapi-operation %}
+{% openapi src="https://api.gitbook.com/openapi.json" path="/orgs/{organizationId}/members" method="get" expanded="true" %} https://api.gitbook.com/openapi.json {% endopenapi %}

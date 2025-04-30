@@ -1,9 +1,37 @@
-# Cork City FC
+---
+icon: hand-wave
+cover: https://gitbookio.github.io/onboarding-template-images/header.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-Cork City Football Club (Irish: Cumann Peile Chathair Chorcaí) is an Irish association football club based in Cork. The club was founded and elected to the League of Ireland in 1984.
+# Welcome
 
-It was one of the first clubs in Ireland (and the first in Cork) to field a team of professional footballers. With the progression of professionalism at the club, continued development of the Turners Cross stadium and the transition to summer football, the club became one of the biggest and best supported clubs in the country.\[4]\[5] In a survey published in 2020, the club was the highest supported League of Ireland (LOI) club.\[6]
+Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
 
-Cork City won its third LOI Premier Division title, and first FAI Cup double, during the 2017 season. While the club were 2022 LOI First Division champions and were promoted to the top tier for the 2023 League of Ireland Premier Division season, after a play-off defeat they dropped back to the LOI First Division for the 2024 season.
+You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
 
-The club's traditional colours are green and white with red trim, and the crest is a variant of the Cork coat of arms. City's home games are played at Turners Cross.
+
+
+[Download here](https://docs.google.com/document/d/1FzWHWP38TAq5uRIVGrqaflGx-EjlUbuU66vZHNiCXOM/export?format=docx)
+
+{% @mailchimp/mailchimpSubscribe %}
+
+
+
+### Jump right in
+
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Create your first site</td><td></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><strong>Basics</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>

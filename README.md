@@ -1,37 +1,65 @@
 ---
-icon: hand-wave
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
+description: >-
+  Access comprehensive company profiles sourced from Base Company data,
+  featuring firmographic details for investment, market research applications
+  and more.
 ---
 
-# Welcome
+# Base Company Data
 
-Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
+## Base Company Data
 
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
-hey
+Page actionsAccess comprehensive company profiles sourced from Base Company data, featuring firmographic details for investment, market research applications and more.CommentShare feedback on the editorBase Company Data is designed to be used for **investment**\*\*, HR intelligence\*\*\*\*, and market research.\*\*CommentShare feedback on the editor
 
+| **See the full company picture**     | Group and target companies by size, industry, category, and age.                                 |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------ |
+| **Map company locations**            | Map and target companies located in relevant areas.                                              |
+| **Dig deep into company structures** | Understand specific relationships between different companies to inform your business decisions. |
 
-[Download here](https://docs.google.com/document/d/1FzWHWP38TAq5uRIVGrqaflGx-EjlUbuU66vZHNiCXOM/export?format=docx)
+***
 
-{% @mailchimp/mailchimpSubscribe %}
+CommentShare feedback on the editor
 
+#### Summary <a href="#summary" id="summary"></a>
 
+CommentShare feedback on the editor
 
-### Jump right in
+|                   |                                                          |
+| ----------------- | -------------------------------------------------------- |
+| Data record count | 72,783,751+                                              |
+| Database refresh  | Monthly                                                  |
+| Scraping since    | 2016-07                                                  |
+| Available via     | Flat files/API                                           |
+| Delivery methods  | Direct download link or file upload to a cloud server.\* |
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Create your first site</td><td></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><strong>Basics</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
+CommentShare feedback on the editor\* We can provide a link and credentials for you to download the dataset, or we can upload the data directly to your cloud server (S3, Azure, Google Cloud, etc.).CommentShare feedback on the editor
+
+**Related links:**
+
+CommentShare feedback on the editor
+
+* CommentShare feedback on the editor​[Dictionary: Base Company Data](https://github.com/john-gitbook/sections-monorepo/blob/main/dev-docs/Base%20Company%20Data/Dictionary_%20Base%20Company%20Data.md)​
+* CommentShare feedback on the editor​[Sample: Base Employee Data](https://github.com/john-gitbook/sections-monorepo/blob/main/Employee%20Data/Base%20Employee%20Data/Sample_%20Base%20Employee%20Data.md)​
+
+***
+
+CommentShare feedback on the editor
+
+#### Data overview <a href="#data-overview" id="data-overview"></a>
+
+CommentShare feedback on the editorThe dataset contains information from various sources organized into different sections. Here's an overview of what's included in each section:CommentShare feedback on the editor::::Tabs :::Tab{title="Data collections"}CommentShare feedback on the editor
+
+1. CommentShare feedback on the editor​[Company information](https://github.com/john-gitbook/sections-monorepo/blob/main/dev-docs/Base%20Company%20Data/Dictionary_%20Base%20Company%20Data.md)​
+2. CommentShare feedback on the editor​[Affiliated](https://github.com/john-gitbook/sections-monorepo/blob/main/dev-docs/Base%20Company%20Data/Dictionary_%20Base%20Company%20Data.md)​
+3. CommentShare feedback on the editor​[Also viewed](https://github.com/john-gitbook/sections-monorepo/blob/main/dev-docs/Base%20Company%20Data/Dictionary_%20Base%20Company%20Data.md)​
+4. CommentShare feedback on the editor​[Financial website info](https://github.com/john-gitbook/sections-monorepo/blob/main/dev-docs/Base%20Company%20Data/Dictionary_%20Base%20Company%20Data.md)​
+5. CommentShare feedback on the editor​[Featured employees](https://github.com/john-gitbook/sections-monorepo/blob/main/dev-docs/Base%20Company%20Data/Dictionary_%20Base%20Company%20Data.md)​
+6. CommentShare feedback on the editor​[Investors](https://github.com/john-gitbook/sections-monorepo/blob/main/dev-docs/Base%20Company%20Data/Dictionary_%20Base%20Company%20Data.md)​
+7. CommentShare feedback on the editor​[Funding rounds](https://github.com/john-gitbook/sections-monorepo/blob/main/dev-docs/Base%20Company%20Data/Dictionary_%20Base%20Company%20Data.md)​
+8. CommentShare feedback on the editor​[Locations](https://github.com/john-gitbook/sections-monorepo/blob/main/dev-docs/Base%20Company%20Data/Dictionary_%20Base%20Company%20Data.md)​
+9. CommentShare feedback on the editor​[Similar companies](https://github.com/john-gitbook/sections-monorepo/blob/main/dev-docs/Base%20Company%20Data/Dictionary_%20Base%20Company%20Data.md)​
+10. CommentShare feedback on the editor​[Specialties](https://github.com/john-gitbook/sections-monorepo/blob/main/dev-docs/Base%20Company%20Data/Dictionary_%20Base%20Company%20Data.md)​
+11. CommentShare feedback on the editor​[Stock info](https://github.com/john-gitbook/sections-monorepo/blob/main/dev-docs/Base%20Company%20Data/Dictionary_%20Base%20Company%20Data.md)​
+12. CommentShare feedback on the editor​[Company updates](https://github.com/john-gitbook/sections-monorepo/blob/main/dev-docs/Base%20Company%20Data/Dictionary_%20Base%20Company%20Data.md) ::: ::::
+
+CommentShare feedback on the editorThe data points might differ depending on your chosen data format (API or flat file data).

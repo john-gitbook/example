@@ -18,8 +18,6 @@ Base Company Data is designed to be used for **investment, HR intelligence, and 
 | **Map company locations**            | Map and target companies located in relevant areas.                                              |
 | **Dig deep into company structures** | Understand specific relationships between different companies to inform your business decisions. |
 
-Base Company Data is designed to be used for **investment, HR intelligence, and market research.**
-
 ### Summary
 
 | Feature           | Details                                                  |

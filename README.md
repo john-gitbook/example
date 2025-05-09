@@ -11,7 +11,7 @@ description: >-
 
 # Base Company Data
 
-Base Company Data is designed to be used for **investment, , HR intelligence, , and market research.**
+Base Company Data is designed to be used for **investment, HR intelligence, and market research.**
 
 | **See the full company picture**     | Group and target companies by size, industry, category, and age.                                 |
 | ------------------------------------ | ------------------------------------------------------------------------------------------------ |

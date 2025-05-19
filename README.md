@@ -1,89 +1,14 @@
-```
----
-title: Base Company Data
-slug: professional-network-companies-dataset
-description: Access comprehensive company profiles sourced from Base Company data, featuring firmographic details for investment, market research applications and more.
-createdAt: Thu Apr 11 2024 11:20:06 GMT+0000 (Coordinated Universal Time)
-updatedAt: Wed Apr 30 2025 06:03:46 GMT+0000 (Coordinated Universal Time)
----
+# Page 1
 
-Base Company Data is designed to be used for **investment****, HR intelligence****, and market research.**
-
-::::VerticalSplit{layout="middle"}
-:::VerticalSplitItem
-**See the full company picture**
-:::
-
-:::VerticalSplitItem
-Group and target companies by size, industry, category, and age.
-:::
-::::
-
-::::VerticalSplit{layout="middle"}
-:::VerticalSplitItem
-**Map company locations**
-:::
-
-:::VerticalSplitItem
-Map and target companies located in relevant areas.
-:::
-::::
-
-::::VerticalSplit{layout="middle"}
-:::VerticalSplitItem
-**Dig deep into company structures**
-:::
-
-:::VerticalSplitItem
-Understand specific relationships between different companies to inform your business decisions.
-:::
-::::
-
-***
-
-## Summary
-
-| Feature           | Details                                                  |
-| ----------------- | -------------------------------------------------------- |
-| Data record count | 72,783,751+                                              |
-| Database refresh  | Monthly                                                  |
-| Scraping since    | 2016-07                                                  |
-| Available via     | Flat files/API                                           |
-| Delivery methods  | Direct download link or file upload to a cloud server.\* |
-
-\* We can provide a link and credentials for you to download the dataset, or we can upload the data directly to your cloud server (S3, Azure, Google Cloud, etc.).
-
-### Related links:
-
-- [Dictionary: Base Company Data](<./Base Company Data/Dictionary_ Base Company Data.md>)&#x20;
-- [Sample: Base Employee Data](<./../Employee Data/Base Employee Data/Sample_ Base Employee Data.md>)&#x20;
-
-***
-
-## Data overview
-
-The dataset contains information from various sources organized into different sections. Here's an overview of what's included in each section:
-
-::::Tabs
-:::Tab{title="Data collections"}
-1. [Company information](<./Base Company Data/Dictionary_ Base Company Data.md>)&#x20;
-2. [Affiliated](<./Base Company Data/Dictionary_ Base Company Data.md>)&#x20;
-3. [Also viewed](<./Base Company Data/Dictionary_ Base Company Data.md>)&#x20;
-4. [Financial website info](<./Base Company Data/Dictionary_ Base Company Data.md>)&#x20;
-5. [Featured employees](<./Base Company Data/Dictionary_ Base Company Data.md>)&#x20;
-6. [Investors](<./Base Company Data/Dictionary_ Base Company Data.md>)&#x20;
-7. [Funding rounds](<./Base Company Data/Dictionary_ Base Company Data.md>)&#x20;
-8. [Locations](<./Base Company Data/Dictionary_ Base Company Data.md>)&#x20;
-9. [Similar companies](<./Base Company Data/Dictionary_ Base Company Data.md>)&#x20;
-10. [Specialties](<./Base Company Data/Dictionary_ Base Company Data.md>)&#x20;
-11. [Stock info](<./Base Company Data/Dictionary_ Base Company Data.md>)&#x20;
-12. [Company updates](<./Base Company Data/Dictionary_ Base Company Data.md>)&#x20;
-:::
-::::
-
-:::hint{type="info"}
-The data points might differ depending on your chosen data format (API or flat file data).&#x20;
-:::
+![](.gitbook/assets/markdown.webp)Hello world
 
 
-```
+
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                  |   |   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | - | - |
+| :thumbsup: hello world ![](.gitbook/assets/markdown.webp)                                                                                                                                                                                                                                                                                                                                                                                        |   |   |
+| <img src=".gitbook/assets/icons8-google-docs-20.svg" alt="" data-size="line"> [Hello World!](./)                                                                                                                                                                                                                                                                                                                                                 |   |   |
+| <p><strong>SFTP filenames in logs</strong><br>Fixed an issue where filenames were displayed in live logs but not retrospective logs.<br><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FLYNcUBVQwSkOMG6KjZfz%2Fuploads%2F7ebRB4tRIozWxpBMCAoN%2Ficons8-google-docs-20.svg?alt=media&#x26;token=ac61da4e-764c-452c-b9b5-d65f188769c9" alt="" data-size="line"> <a href="broken-reference">SFTP connections</a></p> |   |   |
+
+Hello World! ![](.gitbook/assets/icons8-google-docs-20.svg)
+

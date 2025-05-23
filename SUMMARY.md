@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Landing](README.md)
-  * [Page 1](readme/page-1.md)
-  * [Page 2](readme/page-2.md)
-  * [Page 3](readme/page-3.md)
+* [Page 4](README.md)
+* [Landing](something-else/README.md)
+  * [Page 1](something-else/page-1.md)
+  * [Page 2](something-else/page-2.md)
+  * [Page 3](something-else/page-3.md)

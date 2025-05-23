@@ -1,6 +1,9 @@
 # Table of contents
 
 * [Welcome](README.md)
+  * [Page 4](javascript/page-4.md)
+  * [Page 2](javascript/page-2.md)
+  * [Page](javascript/page.md)
   * [Page 3](javascript/page-3.md)
 * [Quickstart](<README (1).md>)
 

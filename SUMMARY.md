@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Quickstart](README.md)
-  * [Page 2](quickstart/page-2.md)
-* [Welcome](javascript.md)
+* [Welcome](javascript/README.md)
+  * [Page 3](javascript/page-3.md)
 
 ## Getting Started
 

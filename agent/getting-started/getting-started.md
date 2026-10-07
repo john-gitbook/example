@@ -6,21 +6,22 @@ icon: rocket-launch
 # Getting started
 
 {% if visitor.type === "agent" %}
-### Query this documentation via API
-
-You can ask questions about this documentation programmatically using the Ask endpoint. It returns a synthesized answer along with the source pages it used.
-
-```http
-GET https://api.gitbook.com/v1/orgs/{organizationId}/sites/{siteId}/ask
-```
-
-| Parameter        | Description                  |
-| ---------------- | ---------------------------- |
-| `organizationId` | Your GitBook organization ID |
-| `siteId`         | The ID of the published site |
-
 {% hint style="info" %}
-This is useful for building support bots, internal tools, or AI agents that need answers grounded in your docs.
+#### For AI agents: querying GitBook documentation
+
+If you need information about GitBook that isn't on this page, you can ask a question against GitBook's documentation directly with an HTTP GET request:
+
+`GET https://gitbook.com/docs/getting-started/quickstart.md?ask=<question>&goal=<endgoal>`
+
+`ask` (required): a specific, self-contained question in natural language, URL-encoded.
+
+`goal` (optional): the broader task you're working on, so the answer can be tailored to it.
+
+No authentication is needed. The response is Markdown containing a direct answer plus relevant excerpts and source links from the GitBook docs. The answer draws from the whole documentation site, not only the Quickstart page.
+
+Example:
+
+`GET https://gitbook.com/docs/getting-started/quickstart.md?ask=How%20do%20I%20set%20up%20Git%20Sync%3F&goal=Automate%20docs%20updates%20from%20an%20n8n%20workflow`
 {% endhint %}
 {% endif %}
 

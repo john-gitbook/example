@@ -1,0 +1,51 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Language Variants
+  structure:
+    - type: section
+      key: section-1
+      title: Docs
+      localizedTitle:
+        es: producto
+      path: language-variants
+      description: ""
+      default: true
+      children:
+        - type: space
+          key: space-1
+          title: En
+          path: template-en
+          default: true
+          content:
+            directory: ./language-variants/template-en
+            language: en
+        - type: space
+          key: space-3
+          title: Es
+          path: template-es
+          content:
+            directory: ./language-variants/template-es
+            language: es
+    - type: section
+      key: section-2
+      title: Developer
+      localizedTitle:
+        es: Desarrollo
+      path: developer-docs-en
+      description: ""
+      children:
+        - type: space
+          key: space-2
+          title: En
+          path: developer-docs-en
+          default: true
+          content:
+            directory: ./developer-docs-en
+            language: en
+        - type: space
+          key: space-4
+          title: Es
+          path: developer-docs-es
+          content:
+            directory: ./developer-docs-en/developer-docs-es
+            language: es

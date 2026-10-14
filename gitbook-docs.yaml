@@ -49,6 +49,13 @@ site:
           content:
             directory: ./developer-docs/es
             language: es
+        - type: space
+          key: space-6
+          title: test-2
+          path: test-2
+          draft: true
+          content:
+            directory: ./test-2
     - type: section
       key: section-3
       title: test-2
@@ -56,7 +63,7 @@ site:
       children:
         - type: space
           key: space-5
-          title: test-2
+          title: Developer test-2
           path: test-2
           default: true
           draft: true

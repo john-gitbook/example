@@ -1,0 +1,5 @@
+- tag: tag-1
+  label: Tag 1
+- tag: tag-2
+  label: Tag 2
+  color: green

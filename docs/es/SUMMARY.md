@@ -1,9 +1,10 @@
 # Table of contents
-* [just-a-page](page.md)
 
+* [Page 1](README.md)
+* [just-a-page](page.md)
 * ```yaml
-  type: builtin:translation
   props: {}
+  type: builtin:translation
   dependencies:
     translation:
       ref:

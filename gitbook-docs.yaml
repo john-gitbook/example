@@ -53,9 +53,9 @@ site:
           key: space-6
           title: test-2
           path: test-2
-          draft: true
           content:
             directory: ./test-2
+            language: de
     - type: section
       key: section-3
       title: test-2
@@ -69,3 +69,4 @@ site:
           draft: true
           content:
             directory: ./test-2
+            language: de

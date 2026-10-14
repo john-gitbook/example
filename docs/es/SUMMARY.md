@@ -1,4 +1,5 @@
 # Table of contents
+* [just-a-page](page.md)
 
 * ```yaml
   type: builtin:translation

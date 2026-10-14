@@ -17,14 +17,14 @@ site:
           path: template-en
           default: true
           content:
-            directory: ./language-variants/template-en
+            directory: ./docs/en
             language: en
         - type: space
           key: space-3
           title: Es
           path: template-es
           content:
-            directory: ./language-variants/template-es
+            directory: ./docs/es
             language: es
     - type: section
       key: section-2
@@ -40,12 +40,12 @@ site:
           path: developer-docs-en
           default: true
           content:
-            directory: ./developer-docs-en
+            directory: ./developer-docs/en
             language: en
         - type: space
           key: space-4
           title: Es
           path: developer-docs-es
           content:
-            directory: ./developer-docs-en/developer-docs-es
+            directory: ./developer-docs/es
             language: es

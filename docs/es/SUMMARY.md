@@ -2,12 +2,4 @@
 
 * [Page 1](README.md)
 * [just-a-page](page.md)
-* ```yaml
-  props: {}
-  type: builtin:translation
-  dependencies:
-    translation:
-      ref:
-        kind: translation
-        translation: tr_SivCE
-  ```
+* [Page 2](page-2.md)

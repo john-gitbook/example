@@ -1,4 +1,5 @@
 # Table of contents
+* [Advanced Documentation](hi.md)
 
 * ```yaml
   type: builtin:translation
